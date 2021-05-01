@@ -1,0 +1,4 @@
+data/nl.albering.jasper.libadwaitatest.desktop.in
+data/nl.albering.jasper.libadwaitatest.appdata.xml.in
+data/nl.albering.jasper.libadwaitatest.gschema.xml
+src/window.ui

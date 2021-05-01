@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=libadwaita-test
+Exec=libadwaita-test
+Icon=nl.albering.jasper.libadwaitatest
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

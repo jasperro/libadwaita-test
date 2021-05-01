@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="libadwaita-test">
+	<schema id="nl.albering.jasper.libadwaitatest" path="/nl/albering/jasper/libadwaitatest/">
+	</schema>
+</schemalist>
